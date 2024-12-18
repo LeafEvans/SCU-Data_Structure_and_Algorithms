@@ -1,6 +1,5 @@
 #ifndef CHAR_STRING_H_
 #define CHAR_STRING_H_
-
 #include <cctype>    // 字符处理函数库
 #include <cstdarg>   // 可变参数处理库
 #include <cstdio>    // 标准输入输出库

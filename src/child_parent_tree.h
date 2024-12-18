@@ -1,6 +1,7 @@
 #ifndef CHILD_PARENT_TREE_H_
 #define CHILD_PARENT_TREE_H_
 #include <float.h>
+
 #include "child_parent_tree_node.h"
 #include "simple_lk_list.h"
 #include "sq_list.h"

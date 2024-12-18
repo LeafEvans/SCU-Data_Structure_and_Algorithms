@@ -1,8 +1,7 @@
 #ifndef DB_CIRCLE_LIST_H_
 #define DB_CIRCLE_LIST_H_
-
 #include "circle_list_base.h"
-#include "node.h"
+#include "db_node.h"
 
 template <class ElemType>
 class DbCircleList : public CircleListBase<ElemType, DbNode<ElemType>> {

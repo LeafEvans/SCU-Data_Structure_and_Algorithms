@@ -2,7 +2,7 @@
 #define PARENT_TREE_H_
 #include <memory.h>
 
-#include "node.h"
+#include "parent_tree_node.h"
 #include "sq_list.h"
 #include "tree_base.h"
 

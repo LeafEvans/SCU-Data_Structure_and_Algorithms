@@ -2,7 +2,7 @@
 #define CHILD_SIBLING_TREE_H_
 #include <cstddef>
 
-#include "node.h"
+#include "child_sibling_tree_node.h"
 #include "tree_base.h"
 
 // 孩子兄弟表示法实现的树类

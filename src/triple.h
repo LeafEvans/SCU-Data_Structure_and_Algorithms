@@ -14,7 +14,6 @@ typedef union {
     unsigned short u16Col;
     unsigned short u16Row;
 #endif  // IS_BIG_ENDIAN
-
   } stPos;
 } ElemPos;
 

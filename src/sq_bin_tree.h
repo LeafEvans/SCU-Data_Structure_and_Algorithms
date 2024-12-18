@@ -1,7 +1,7 @@
 #ifndef SQ_BIN_TREE_H_
 #define SQ_BIN_TREE_H_
 #include "bin_tree_base.h"
-#include "node.h"
+#include "sq_bin_tree_node.h"
 #include "sq_list.h"
 
 namespace naSqBinTree {

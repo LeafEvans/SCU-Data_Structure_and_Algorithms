@@ -3,7 +3,7 @@
 #include <iostream>
 
 #include "lk_list_base.h"
-#include "node.h"
+#include "ref_gen_node.h"
 
 template <typename ElemType>
 class RefGenList : private LkListBase<ElemType, RefGenNode<ElemType>> {

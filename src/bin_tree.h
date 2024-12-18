@@ -1,7 +1,7 @@
 #ifndef BIN_TREE_H_
 #define BIN_TREE_H_
 #include "lk_bin_tree_base.h"
-#include "node.h"
+#include "bin_tree_node.h"
 
 template <class ElemType>
 class BinTree : public LkBinTreeBase<ElemType, BinTreeNode<ElemType>> {

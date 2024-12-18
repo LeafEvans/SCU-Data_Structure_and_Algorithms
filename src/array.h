@@ -1,10 +1,8 @@
 #ifndef ARRAY_H_
 #define ARRAY_H_
-#include <memory.h>
-
 #include <cstdarg>
-#include <string>
 #include <stdexcept>
+#include <string>
 
 template <class ElemType>
 class Array {

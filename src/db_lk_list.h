@@ -1,7 +1,7 @@
 #ifndef DB_LK_LIST_H_
 #define DB_LK_LIST_H_
 #include "lk_list_base.h"
-#include "node.h"
+#include "db_node.h"
 
 template <class ElemType>
 class DbLkList : public LkListBase<ElemType, DbNode<ElemType>> {
